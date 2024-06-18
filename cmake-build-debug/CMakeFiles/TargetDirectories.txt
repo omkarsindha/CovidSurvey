@@ -1,0 +1,3 @@
+C:/Users/Omkar/OneDrive/Desktop/OmkarsinhSindhaAssign2/OmkarsinhSindhaAssign2/cmake-build-debug/CMakeFiles/OmkarsinhSindhaAssign2.dir
+C:/Users/Omkar/OneDrive/Desktop/OmkarsinhSindhaAssign2/OmkarsinhSindhaAssign2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Omkar/OneDrive/Desktop/OmkarsinhSindhaAssign2/OmkarsinhSindhaAssign2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

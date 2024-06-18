@@ -1,0 +1,10 @@
+# ninja log v5
+161	2272	7402680513135510	CMakeFiles/OmkarsinhSindhaAssign2.dir/MyFunctions.c.obj	cf4155f58d7be930
+2272	4035	7402680530717846	OmkarsinhSindhaAssign2.exe	87871af0c07f694a
+3	501	7402681462914512	build.ninja	6e6313484b6bf6f3
+7	1452	7402680504916975	CMakeFiles/OmkarsinhSindhaAssign2.dir/clientApp.c.obj	438d420e4a27b549
+15	1198	7402681914446578	CMakeFiles/OmkarsinhSindhaAssign2.dir/clientApp.c.obj	d33b3cc296966524
+154	2200	7402681924469039	CMakeFiles/OmkarsinhSindhaAssign2.dir/MyFunctions.c.obj	251fac11d04cb109
+2200	4058	7402681942984564	OmkarsinhSindhaAssign2.exe	87871af0c07f694a
+10	415	7404438550131323	CMakeFiles/OmkarsinhSindhaAssign2.dir/clientApp.c.obj	d33b3cc296966524
+415	1099	7404438556934633	OmkarsinhSindhaAssign2.exe	87871af0c07f694a
